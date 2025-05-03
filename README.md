@@ -29,6 +29,20 @@
 </p>
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifulislam106&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislam106&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saifulislam106&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 📫 Connect with Me
 
