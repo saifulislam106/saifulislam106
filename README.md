@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/cover.png" alt="Saiful Islam - Full Stack Developer" />
+  <img src="/assets/cover.png" alt="Saiful Islam - Full Stack Developer" style="display: block; border-radius: 8px;" width="1000" height="400" />
 </p>
 
 
